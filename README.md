@@ -1,9 +1,9 @@
 # BulbSwitch
 Simple react app for switch on an switch off of bulb.
 
-![Jest watch mode](https://drive.google.com/file/d/1EuveoWdOnk1_k9oz-esDDd2GH7g4DySN/view)
-![Jest watch mode](https://drive.google.com/file/d/166poh16981W0GGDxhSk-qgBxcv5v0RDt/view)
-![Jest watch mode](https://drive.google.com/file/d/1KPogRTu0CU6Bd8ZNo5HCgoqhXpLUzKqM/view)
+![Jest watch mode](https://lh6.googleusercontent.com/ap6MBKUvkEbz1luAtp077P-306v1njNlCnBc6cB6zUfOHYZY-GxNGw-DPIgIWHIn5Is0P7XBhb2E3Q=w1366-h626-rw)
+![Jest watch mode](https://lh5.googleusercontent.com/cdYRvKezIY0VKdBMNrKP1IGCUGh6vZ5UAp_M4qJFo8QB2VpJuXFonqLlEX5MOy90c-ImIm74Ew6XCQ=w1366-h626-rw)
+![Jest watch mode](https://lh6.googleusercontent.com/zrG0nrMHRorTxjuw19HoCDlFIcpchIyRrFGIA96bbSFZDYxcBHnWqp-81FCoFqJqo9Vjmnb7av4sRw=w1366-h626-rw)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
